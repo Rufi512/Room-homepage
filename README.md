@@ -29,7 +29,7 @@ Users should be able to:
 
 | Mobile Design | Mobile Solution | 
 |--|--|
-| ![Mobile](./design/mobile-design.jpg)  | ![Mobile](./screenshots/room-homepage-mobile.png)  |
+| ![Mobile](./design/mobile-design.jpg)  | <img src="./screenshots/room-homepage-mobile.png" width="375"/> |
 
 | Desktop Design | Desktop Solution  | 
 |--|--|
