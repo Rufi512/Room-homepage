@@ -1,0 +1,9 @@
+*.sketch
+*.xd
+*.fig
+*.md
+/node_modules
+/build
+!README.md
+.DS_Store
+.prettierignore
