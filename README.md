@@ -9,6 +9,7 @@ Hi everyone :wave: this is my first challenge that I do on this platform and I t
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -35,6 +36,12 @@ Users should be able to:
 |--|--|
 | ![Desktop](./design/desktop.jpg)  | ![Desktop](./screenshots/room-homepage-desktop.png)  |
 
+
+### Links
+
+- Solution URL: [FrontendMentor Solution](https://www.frontendmentor.io/solutions/room-homepage-solution-html-css-js-webpack-nv4d5wjKw)
+
+- Live Site URL: https://rufi512.github.io/room-homepage/
 
 
 ## My Process
